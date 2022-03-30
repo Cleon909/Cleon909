@@ -1,6 +1,4 @@
-PLACE HOLDER
-
-I'm a beginner in tech with a background in Foreign Exchange and Investment Banking. I'm currently working through a QA Dev Ops bootcamp which will hopefully give me some basic skills in:
+I'm a beginner in tech with a background in Foreign Exchange and Investment Banking. I've just completed a QA Dev Ops bootcamp which has given me some basic skills in:
   - Python
   - Jenkins
   - CI/CD
@@ -8,9 +6,10 @@ I'm a beginner in tech with a background in Foreign Exchange and Investment Bank
   - Linux
   - Docker
  
- I'm interested in coding and hoping to start a career in tech after this course.
+ I'm interested in coding and hoping to pursue either a career or a hobby in tech.
  
- LinkedIn - https://www.linkedin.com/in/michael-corcoran909/
+ <a href="https://www.linkedin.com/in/michael-corcoran909/">LinkedIn</a>
  email - corcoran909@gmail.com
+ <a href="www.mikescv.co.uk">CV</a>
 
  
